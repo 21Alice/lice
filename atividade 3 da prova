@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <p><B> Algumas marcas (em bold por exemplo!!!)</B><p>
+           <p> <I> Este parágrafo está em itálico</I><p>
+             <p><U> Parágrafo sublinhado...</U><p>
+             <p><b> Utilizando a marca big</b> <sub>e a marca small</sub><p>
+            <p> Mais uma marca que permite apresentar expressões do gênero x<sup>2</sup> e x<sub>2</sub>
+        <p> Exemplos de caracteres especiais:
+        <br>á à ã â ç é è õ</p>
+    </head>
+      <body>
+      </body>
+</html>
+
+<ol type = "A">
+    <li> Matemática </li>
+    <li> Português </li>
+    <li> Programação </li>
+</ol>
+
+<ul>
+    <li> Matemática
+    <li> Português
+    <li>Programação
+</ul>
+
+<dl>
+    <dt>
+        FAQ
