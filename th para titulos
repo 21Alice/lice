@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>Tabelas</title>
+     <style type="text/css">
+<!--
+       body {background-color: beige; font-family: verdana; color: black;
+font-size: 120%}
+ td {font-size: 95%; width: 100px; background-color: white}
+ th {font-size: 110%; color: rgb(18, 18, 179); background-color: rgb(252, 252, 33)}
+ //-->
+     </style>
+  </head>
+       <body>
+        <caption> Estados e capitais do Brasil </caption>
+         <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+           <tr>
+             <th>Estados</th>
+             <th>Capitais</th>
+           </tr>
+           <tr>
+             <td>Mato Grosso</td>
+             <td>Cuiabá</td>
+           </tr>
+           <tr>
+             <td>Goiás</td>
+             <td>Goiás</td>
+           </tr>
+           <tr>
+             <td>São Paulo</td>
+             <td>São Paulo</td>
+           </tr>
+         </table>
+       </body>
+</html>
