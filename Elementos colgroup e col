@@ -1,0 +1,181 @@
+<html>
+  <head>
+    <title>Tabelas</title>
+      <style type="text/css">
+      <!--
+        body {background-color: beige; font-family: verdana; color: black;
+font-size: 80%}
+td {font-size: 80%}
+        -->
+      </style>
+  </head>
+        <body>
+          <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+            <tr>
+         <td>Forno Katre2000</td>
+         <td>Profissional</td>
+         <td>R$ 2.939,49</td>
+            </tr>
+            <tr>
+         <td>Batedeira Voyager ITE</td>
+         <td>Vigilante</td>
+         <td>R$ 394,47</td>
+            </tr>
+            <tr>
+         <td>Lavadora Bem-Well</td>
+         <td>Prática</td>
+         <td>R$ 596,58</td>
+            </tr>
+          </table>
+        </body>
+</html>
+
+<br>
+<br>
+
+<html>
+  <head>
+   <title>Tabelas</title>
+    <style type="text/css">
+   
+      body {background-color: beige; font-family: verdana; color: black;
+font-size: 80%}
+td {font-size: 80%}
+
+    </style>
+  </head>
+      <body>
+       <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+        <colgroup span="2" align="left" width="200"></colgroup>
+        <colgroup align="right" width="100"></colgroup>
+          <tr>
+            <td>Forno Katre2000</td>
+            <td>Profissional</td>
+            <td>R$ 2.939,49</td>
+          </tr>
+          <tr>
+            <td>Batedeira Voyager ITE</td>
+            <td>Vigilante</td>
+            <td>R$ 394,47</td>
+           </tr>
+           <tr>
+             <td>Lavadora Bem-Well</td>
+             <td>Prática</td>
+             <td>R$ 596,58</td>
+          </tr>
+       </table>
+      </body>
+</html>
+
+<br>
+<br>
+
+<html>
+  <head>
+<title>Tabelas</title>
+<style type="text/css">
+<!--
+body {background-color: beige; font-family: verdana; color: black;
+font-size: 80%}
+td {font-size: 80%}
+
+</style>
+  </head>
+   <body>
+    <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+     <colgroup style="color: red" align="left" width="200"></colgroup>
+     <colgroup style="color: green" align="left" width="200"></colgroup>
+     <colgroup style="color: blue" align="right" width="100"></colgroup>
+      <tr>
+       <td>Forno Katre2000</td>
+       <td>Profissional</td>
+       <td>R$ 2.939,49</td>
+      </tr>
+      <tr>
+       <td>Batedeira Voyager ITE</td>
+       <td>Vigilante</td>
+       <td>R$ 394,47</td>
+      </tr>
+      <tr>
+       <td>Lavadora Bem-Well</td>
+       <td>Prática</td>
+       <td>R$ 596,58</td>
+      </tr>
+    </table>
+   </body>
+</html>
+
+<br>
+<br>
+
+<html>
+  <head>
+   <title>Tabelas</title>
+    <style type="text/css">
+<!--
+     body {background-color: beige; font-family: verdana; color: black;
+font-size: 80%}
+td {font-size: 80%}
+
+    </style>
+  </head>
+     <body>
+      <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+       <tr>
+         <td>GO</td>
+         <td>Goiás</td>
+         <td>Goiânia</td>
+       </tr>
+       <tr>
+         <td>MT</td>
+         <td>Mato Grosso</td>
+         <td>Cuiabá</td>
+       </tr>
+       <tr>
+         <td>SP</td>
+         <td>São Paulo</td>
+         <td>São Paulo</td>
+       </tr>
+      </table>
+     </body>
+</html>
+
+<br>
+<br>
+
+<html>
+  <head>
+   <title>Tabelas</title>
+    <style type="text/css">
+
+body {background-color: beige; font-family: verdana; color: black;
+font-size: 80%}
+td {font-size: 80%}
+
+    </style>
+  </head>
+     <body>
+      <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+       <colgroup>
+        <col style="background-color: orange; text-align: center" width="50"></col>
+        <col style="background-color: red; color: blue" width="100"></col>
+        <col style="background-color: yellow" width="100"></col>
+       </colgroup>
+         <tr>
+          <td>GO</td>
+          <td>Goiás</td>
+          <td>Goiânia</td>
+         </tr>
+         <tr>
+          <td>MT</td>
+          <td>Mato Grosso</td>
+          <td>Cuiabá</td>
+         </tr>
+         <tr>
+          <td>SP</td>
+          <td>São Paulo</td>
+          <td>São Paulo</td>
+         </tr>
+      </table>
+     </body>
+</html>

@@ -1,0 +1,68 @@
+<html>
+  <head>
+   <title>Tabelas</title>
+    <style type="text/css">
+
+     body {background-color: beige; font-family: verdana; color: black;
+font-size: 80%}
+td {font-size: 80%}
+
+    </style>
+  </head>
+     <body>
+      <table frame="hsides" border="1" cellpadding="3" cellspacing="0"
+bordercolor="black">
+      <tr>
+       <td>Janeiro</td>
+       <td>Fevereiro</td>
+       <td>Março</td>
+      </tr>
+      <tr>
+       <td>Abril</td>
+       <td>Maio</td>
+       <td>Junho</td>
+      </tr>
+      <tr>
+       <td>Julho</td>
+       <td>Agosto</td>
+       <td>Setembro</td>
+      </tr>
+      </table>
+     </body>
+</html>
+
+<br>
+<br>
+
+<html>
+  <head>
+   <title>Tabelas</title>
+    <style type="text/css">
+<!--
+body {background-color: beige; font-family: verdana; color: black;
+font-size: 80%}
+td {font-size: 80%}
+
+    </style>
+  </head>
+     <body>
+      <table frame="below" border="1" cellpadding="3" cellspacing="0"
+bordercolor="black">
+       <tr>
+        <td>Janeiro</td>
+        <td>Fevereiro</td>
+        <td>Março</td>
+       </tr>
+       <tr>
+        <td>Abril</td>
+        <td>Maio</td>
+        <td>Junho</td>
+       </tr>
+       <tr>
+        <td>Julho</td>
+        <td>Agosto</td>
+        <td>Setembro</td>
+       </tr>
+      </table>
+     </body>
+</html>
